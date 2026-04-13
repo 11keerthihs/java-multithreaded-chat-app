@@ -1,0 +1,5 @@
+{
+  "name": "Java Multithreaded Chat App",
+  "description": "A complete multithreaded client-server chat application implemented in Java using Sockets and ExecutorService, featuring a real-time web simulation and code explorer.",
+  "requestFramePermissions": []
+}
