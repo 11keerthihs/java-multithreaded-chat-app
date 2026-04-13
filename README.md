@@ -143,4 +143,5 @@ This project successfully demonstrates how to build a real-time chat system usin
 
 Keerthi HS
 Internship Project Submission
-<img width="1301" height="639" alt="Image" src="https://github.com/user-attachments/assets/0d50898f-8b9e-4917-b900-e5d91e6ec8f4" />
+<img width="1301" height="639" alt="Image" src="https://github.com/user-attachments/assets/11f9f500-4a55-4704-a9a6-a6324461705e" />
+<img width="1294" height="638" alt="Image" src="https://github.com/user-attachments/assets/26a3d619-d503-4971-a63b-696eea3592cc" />
